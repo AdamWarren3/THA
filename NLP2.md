@@ -1,6 +1,8 @@
 A framework for understanding language as a programming medium operating simultaneously at three scales: computational, cognitive, and cultural.
 
-The ² doesn't mean NLP multiplied by itself. It marks the expansion of a single observation across three distinct but mutually reinforcing scales:
+The ² is not arbitrary. Two entirely separate fields independently arrived at the same acronym — Natural Language Processing (computational) and Neuro-Linguistic Programming (behavioral/hypnotic). That collision was the original observation: two different disciplines, both called NLP, both describing language as a mechanism that shapes the system it runs on. The ² marks that recognition. The cultural/media programming scale emerged from following that observation to its logical conclusion — if language programs machines and minds, it programs cultures too. Three scales, one superscript, one insight.
+
+The three scales:
 
 At the computational scale, large language models demonstrate that language has learnable structure that shapes output. The model is trained on language. Language determines what the model can think and generate.
 
