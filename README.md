@@ -1,8 +1,16 @@
 # The Human Algorithm
 
-![The Human Algorithm](the-human-algorithm.svg)
-
-**[View Live Site →](https://OptimizerAdam.github.io)**
+<div align="center">
+  <a href="https://atom-unhinged.github.io/The-Human-Algorithm">
+    <img src="the-human-algorithm.svg" alt="The Human Algorithm" width="620">
+  </a>
+  
+  <h3>
+    <a href="https://atom-unhinged.github.io/The-Human-Algorithm">
+      → View Live Site
+    </a>
+  </h3>
+</div>
 
 A personal framework for deliberate human optimization — built openly, held honestly, under active development.
 
