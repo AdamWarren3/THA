@@ -1,5 +1,9 @@
 # The Human Algorithm
 
+![The Human Algorithm](the-human-algorithm.svg)
+
+**[View Live Site →](https://OptimizerAdam.github.io)**
+
 A personal framework for deliberate human optimization — built openly, held honestly, under active development.
 
 ---
