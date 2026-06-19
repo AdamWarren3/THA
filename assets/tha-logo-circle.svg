@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .tha-text {
+        font-family: 'JetBrains Mono', 'Roboto Mono', 'Consolas', 'Courier New', monospace;
+        font-weight: 900;
+        letter-spacing: 2px;
+      }
+    </style>
+  </defs>
+
+  <!-- Black circle -->
+  <circle cx="256" cy="256" r="248" fill="#000000"/>
+
+  <!-- THA, bold, centered -->
+  <text x="256" y="296" text-anchor="middle" class="tha-text" font-size="150" fill="#ffffff">THA</text>
+
+</svg>
