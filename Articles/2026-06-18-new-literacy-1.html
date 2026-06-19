@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The New Literacy — The Human Algorithm</title>
+<style>
+  :root {
+    --navy: #0f1923;
+    --ink: #1a2332;
+    --mid: #4a5568;
+    --light: #718096;
+    --border: #e2e8f0;
+    --bg: #ffffff;
+    --bg2: #f8fafc;
+    --accent: #2b6cb0;
+    --accent-light: #ebf4ff;
+    --mono: 'Courier New', Courier, monospace;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+
+  .header-left {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+  }
+
+  .wordmark {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .back-link {
+    font-size: 0.8rem;
+    color: var(--mid);
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+    transition: color 0.15s;
+  }
+
+  .back-link:hover { color: var(--accent); }
+
+  main {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 4rem 2rem 8rem;
+  }
+
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .article-tag {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: var(--accent-light);
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+  }
+
+  .article-date {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    color: var(--light);
+  }
+
+  h1 {
+    font-size: 2.25rem;
+    font-weight: 900;
+    color: var(--navy);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    margin-bottom: 2.5rem;
+  }
+
+  .article-body {
+    font-size: 1.05rem;
+    line-height: 1.85;
+    color: var(--ink);
+  }
+
+  .article-body p {
+    margin-bottom: 1.4rem;
+  }
+
+  .article-body h2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--navy);
+    margin: 2.5rem 0 1rem;
+    letter-spacing: -0.01em;
+  }
+
+  .article-body strong {
+    color: var(--navy);
+    font-weight: 600;
+  }
+
+  .article-body a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-light);
+    transition: border-color 0.15s;
+  }
+
+  .article-body a:hover {
+    border-bottom-color: var(--accent);
+  }
+
+  .article-body ul, .article-body ol {
+    margin: 0 0 1.4rem 1.5rem;
+  }
+
+  .article-body li {
+    margin-bottom: 0.5rem;
+    line-height: 1.7;
+  }
+
+  .divider {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2.5rem 0;
+  }
+
+  .article-footer {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--light);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .article-footer a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <span class="wordmark">THA // Articles</span>
+  </div>
+  <a class="back-link" href="../index.html">← The Human Algorithm</a>
+</header>
+
+<main>
+  <div class="article-meta">
+    <span class="article-tag">Essay</span>
+    <span class="article-date">2026-06-18</span>
+  </div>
+
+  <h1>The New Literacy</h1>
+
+  <div class="article-body">
+
+    <p>You know that feeling when you open an app to check one thing and surface forty minutes later having checked nothing? That's not a willpower failure. That's a system doing exactly what it was built to do, and you doing exactly what most people do: receiving.</p>
+
+    <p>The new literacy isn't coding. It isn't prompt engineering. It isn't knowing which AI tool to use for which task. It's older and stranger than that — it's the difference between a radio that only picks up whatever's loudest on the dial, and one you've learned to tune.</p>
+
+    <p>Most people are still in receive mode. The optimized human runs in transmit mode.</p>
+
+    <hr class="divider">
+
+    <h2>The Fork</h2>
+
+    <p>Here's the thing nobody says clearly enough: you're already inside the system. There was no moment you opted in. Social feeds, recommendation engines, language models, the slower cultural loops running underneath all of it — they were running before you got here, and they don't pause for your awareness.</p>
+
+    <p>So the opt-out fantasy is just that. The only real choice left is <strong>conscious engagement or unconscious subjection.</strong></p>
+
+    <p>This isn't paranoia, and it isn't a conspiracy about who's pulling the strings. It's closer to physics than politics. These systems are tuned to capture attention and reinforce whatever pattern keeps you engaged — yours included, mine included. Ideas don't usually walk in the front door announcing themselves as ideas. They arrive disguised as your own thoughts, repeat quietly, and eventually you can't remember whether you concluded something or absorbed it. Call it memnetic transmission if you want a word for it. Reward loops don't send a memo before they start shaping behavior. Language patterns program perception at a scale most people never stop to notice, because noticing requires stepping half a step outside the thing doing the noticing.</p>
+
+    <p>You can let the current carry you. Or you can learn where the current is actually coming from, and steer.</p>
+
+    <hr class="divider">
+
+    <h2>What Deliberate Engagement Actually Looks Like</h2>
+
+    <p>It starts with <strong>epistemic hygiene</strong> — an unglamorous phrase for a simple habit: knowing how you know what you know. Before treating any input as true, ask where it came from, what incentive sits behind it, and what would have to be different for it to be false. Apply this especially to AI output. A language model can be confident, fluent, and wrong in the same sentence, and nothing about its tone will warn you. The model doesn't carry the burden of verification. You do.</p>
+
+    <p>Then there's <strong>signal versus slop.</strong> Signal moves you closer to something real. Slop multiplies activity without multiplying progress, and the annoying part is it often <em>feels</em> like progress while it's happening — busywork has a way of imitating momentum. The honest test isn't "did this produce output," it's "did this output change anything that mattered."</p>
+
+    <p>And finally: treat AI as <strong>a tool you direct, not an oracle you consult.</strong> A tool extends a direction you've already chosen. An oracle quietly substitutes its judgment for yours, and the substitution is easy to miss precisely because it's so convenient. One builds sovereignty over time. The other erodes it so gradually you won't notice until you go looking for ground that isn't there anymore.</p>
+
+    <p>None of this is complicated to describe. All of it is hard to practice consistently, which is the entire point — literacy was never the part where you learn the alphabet.</p>
+
+    <hr class="divider">
+
+    <h2>Zooming Out</h2>
+
+    <p>Picture two people with the same access to the same tools. One treats the model as a mirror that flatters back whatever they already believe. The other treats it as a sparring partner that's occasionally allowed to win. Same technology, two completely different trajectories — and the gap between those trajectories is the part worth thinking about, carefully, without pretending to know exactly how it plays out.</p>
+
+    <p>If conscious engagement spreads — even among a minority — the divergence from a single, smooth, predictable future seems plausible to me, though I want to be honest that this is a scenario, not a forecast. People running clean inputs, verified sources, and deliberate intention <em>might</em> see compounding advantages in focus and resilience. Not because they're smarter. Because they're spending less of themselves fighting a current they never noticed they were swimming against.</p>
+
+    <p>Meanwhile, the systems doing the shaping don't pause to wait for anyone to catch up. Biotech, cognitive enhancement, and AI capability keep accelerating regardless of who's paying attention. The open question — genuinely open, not rhetorical — is whether more people end up directing that acceleration or simply being carried along by it. I don't have a confident answer. I have a hope about which way it tips, and a framework aimed at nudging it.</p>
+
+    <hr class="divider">
+
+    <h2>The Responsibility Question</h2>
+
+    <p>If some people engage deliberately and others don't, a real tension shows up fast: do the deliberate ones owe something to the wider mess everyone still shares?</p>
+
+    <p>I don't have a clean answer. But here's the argument worth sitting with.</p>
+
+    <p>Sovereignty that curdles into pure self-interest is just isolation wearing a nicer outfit. If the goal is something like peace — low friction, real coherence — then walking away from everyone still tangled in the noise undercuts the whole point. A node that only optimizes for itself isn't actually optimized. It's just insulated.</p>
+
+    <p>On the other hand, you cannot install epistemic hygiene in someone who didn't ask for it. Try, and you've just built another memnetic infection with better branding — the cure repackaged as the disease.</p>
+
+    <p>The version that makes sense to me: <strong>model it, don't preach it.</strong> Live the practice visibly. Make the tools available. Let the results do whatever convincing they're going to do, and resist the itch to drag anyone toward a conclusion before they're ready for it. That tension — between staying connected and not becoming a missionary — isn't a bug in this framework. It's one of the harder things it's actually trying to work out.</p>
+
+    <hr class="divider">
+
+    <h2>An Open Invitation</h2>
+
+    <p>This isn't finished. It's a first branch — v0.1 of something still being built in public, mistakes and all. Not doctrine. Not a final theory of anything. An invitation to test these ideas against your own experience and tell me where they don't hold.</p>
+
+    <p>The goal, stripped down: a workable way to relate to AI and algorithmic systems that leaves you more yourself, not less.</p>
+
+    <p>The optimizer becomes the optimized. That's not a destination. It's the whole shape of the journey.</p>
+
+    <p>The core framework is here: <a href="https://atom-unhinged.github.io/The-Human-Algorithm/" target="_blank">The Human Algorithm</a></p>
+
+  </div>
+
+  <div class="article-footer">
+    <span>v0.1 // Active Development // Open Source Optimization</span>
+    <a href="../index.html">← Back to Framework</a>
+  </div>
+
+</main>
+
+</body>
+</html>
