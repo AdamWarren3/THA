@@ -3,8 +3,8 @@ One of the most significant innovations in human coordination history was not a 
 Remove the intermediary. Remove the single point of failure. Remove the institution that extracts rent for being the trusted third party. What remains is a protocol — open, verifiable, immutable, running on consensus rather than permission.
 
 This is not financial theory — it is [[The Sovereignty Principle]] applied to value and truth simultaneously.
-
-The genesis was not silent — it spoke. [[Romans 12-21|Romans 12:21]] encoded in the first block. Overcome by replacing, not by destroying. Those who read it understood that the system being replaced was the point.
+ 
+The genesis was not silent — it spoke. A newspaper headline embedded in the first block: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.' A timestamp and a quiet indictment of the system being replaced. Those who read it understood the point.
 
 Decentralization is not anarchy — it is the most stable architecture for any system that must survive adversarial conditions indefinitely.
 
