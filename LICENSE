@@ -1,17 +1,15 @@
-Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+## Licenses
 
-Copyright (c) 2026 Adam Warren
+### Content
+© 2026 Adam Warren  
+**CC BY-NC 4.0**  
+[creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+Covers: All articles, framework notes, concepts, and written material.  
+You are free to share and adapt with attribution. Commercial use requires explicit written permission.
 
-You are free to:
-- Share: copy and redistribute the material in any medium or format
-- Adapt: remix, transform, and build upon the material
+### Code
+**MIT License**  
+[opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
-Under the following terms:
-- Attribution: You must give appropriate credit to Adam Warren, provide a link to the license, and indicate if changes were made.
-- NonCommercial: You may not use the material for commercial purposes without explicit written permission from the author.
-
-The coined terms "memnetic" and "NLP²" as defined within The Human Algorithm framework are original contributions by Adam Warren, first published 2026.
-
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Covers: HTML, CSS, JavaScript, and any other code files.
