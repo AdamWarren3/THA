@@ -2,6 +2,10 @@ The structural design of how intention moves from thought to outcome. Most peopl
 
 Architecture means: clearly defined target state, identified friction points, removal of interference, consistent reinforcement loops, [[AI as Cognitive Scaffold|external scaffolding]] where internal capacity is insufficient.
 
+[[The Goal-Setting Prompt]] is the practical application of this architecture — the tool for converting intention into defined structure.
+
+[[AI as Cognitive Scaffold|External scaffolding]] where internal capacity is insufficient.
+
 [[The Physical Layer]] is where many friction points live — a degraded substrate undermines even well-designed intentionality architecture. The foundation matters.
 
 AI is among the most powerful intentionality architecture tools currently available — if used deliberately rather than passively. Used passively it produces the opposite: the appearance of intention without the structure.
