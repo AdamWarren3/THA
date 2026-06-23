@@ -7,3 +7,5 @@ Memetic + memory. [[RLHF|Transmitted ideas]] that become [[AdamW3|stored identit
 [[The Human Algorithm]] is the deprogramming and reprogramming protocol. 
 
 Memnetic transmission is not always passive — conscious adoption of a framework is also memnetic. The distinction is awareness. 
+
+[[The Belief Audit]] is the practical tool for surfacing which memnetic transmissions are running and examining them consciously.
