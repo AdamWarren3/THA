@@ -6,6 +6,8 @@ Diet determines the quality of the substrate. The brain is a metabolic organ —
 
 Exercise is among the most well-documented cognitive enhancement tools available. Aerobic exercise increases BDNF — brain-derived neurotrophic factor — which supports neuroplasticity. The same neuroplastic capacity that [[Microdosing as Protocol]] targets is also activated by consistent physical movement.
 
+[[Hypnosis as Protocol]] targets this same neuroplastic capacity through language and suggestion — a different mechanism, the same substrate.
+
 Hydration, sunlight, social connection — these are biological requirements that affect system performance measurably.
 
 [[Epistemic Hygiene]] is downstream of physical maintenance — a sleep-deprived, undernourished mind cannot filter signal from noise reliably regardless of intent.
