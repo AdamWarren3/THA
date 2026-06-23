@@ -6,6 +6,8 @@ The mechanism has identifiable steps: clearly defined target state → identific
 
 At the biochemical layer, [[Microdosing as Protocol]] may reduce the noise floor of the system — research suggests reduced Default Mode Network activity creates conditions where signal becomes more legible. This remains an active area of investigation, not settled science.
 
+[[Hypnosis as Protocol]] operates at this same layer — language and suggestion as direct mechanisms for reducing interference between intention and outcome.
+
 The gap between will and result compresses when interference is systematically removed. That compression is what people throughout history have called manifestation. The mechanism was always there. The language was just imprecise.
 
 Magic and mysticism are technology whose mechanism hasn't been documented yet. The Human Algorithm documents the mechanism.
