@@ -337,6 +337,23 @@
     h1.note-title { font-size: 1.5rem; }
     .home-title { font-size: 2rem; }
   }
+  /* This defines the fade-in animation rule */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px); /* Optional: gently slides the image up 10px */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* This applies the animation specifically to your story images */
+.story-img {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+
 </style>
 </head>
 <body>
