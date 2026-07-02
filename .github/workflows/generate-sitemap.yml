@@ -1,0 +1,38 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate sitemap
+        run: |
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > sitemap.xml
+          echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> sitemap.xml
+
+          echo '<url><loc>https://atom-unhinged.github.io/The-Human-Algorithm/</loc></url>' >> sitemap.xml
+
+          for file in Articles/*.html; do
+            echo "<url><loc>https://atom-unhinged.github.io/The-Human-Algorithm/$file</loc></url>" >> sitemap.xml
+          done
+
+          echo '</urlset>' >> sitemap.xml
+
+      - name: Save sitemap
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add sitemap.xml
+          git commit -m "Update sitemap" || exit 0
+          git push
