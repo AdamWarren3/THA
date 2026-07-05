@@ -5,6 +5,3 @@ Overcome by replacing, not by destroying. Displacement outperforms direct confro
 This maps directly onto [[Signal vs Slop]] — replace noise with signal, not through force but through superior output. It is applied through [[Intentionality Architecture]] — the deliberate design of how constructive action outcompetes destructive action over time.
 
 Whether these traditions point at the same underlying truth or simply arrived at similar practical wisdom through different routes is an open question, worth holding as interpretation rather than conclusion. What's observable is the pattern itself. That reading informs [[Peace is the Protocol]] and [[The Human Algorithm]] directly.
-Whether these traditions are pointing at the same underlying truth or simply arrived at similar practical wisdom through different routes is an open question. What's observable is the pattern: across very different cultural contexts, the principle of overcoming through constructive displacement recurs.
-
-One reading is that this convergence is signal. That reading informs [[Peace is the Protocol]] and [[The Human Algorithm]] — but it's worth holding as interpretation rather than conclusion.

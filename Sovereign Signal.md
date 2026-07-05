@@ -1,9 +1,5 @@
-Many major wisdom traditions converge on a similar transmission: peace, non-harm, direct accountability to truth. The pattern is significant. The institutional layers that formed around these transmissions often became noise — accumulating doctrine, hierarchy, and control that obscured the original signal. [[The Human Algorithm]] strips the noise and attempts to read the original data.
+The convergence of major wisdom traditions on peace as a systems output — and why that convergence is significant without being proof of universality — is addressed fully in [[Peace is the Protocol]]. What follows here is specific to the individual node rather than the system.
 
-Peace is not a religious concept — it is a systems optimization state. Minimum friction, maximum coherence, sustainable output. The sovereign individual connects directly to this principle without requiring permission, intermediary, or [[Memnetic|inherited framework]].
+The sovereign individual connects directly to this principle without requiring permission, intermediary, or [[Memnetic|inherited framework]]. Truth tends to be more stable than falsehood. Faith in truth is a strategic orientation toward the more stable attractor.
 
-Truth tends to be more stable than falsehood — falsehood requires ongoing energy to maintain and defend, while truth requires only accurate observation. This is not a guarantee of truth's victory in any given case — history shows falsehood can persist for generations. But the structural asymmetry is real.
-
-Faith in Truth is therefore not naive belief — it is a strategic orientation toward the more stable attractor. [[Signal vs Slop]] is the practice of that orientation at the information layer. [[The Sovereignty Principle]] is its application to identity.
-
-The state produced by direct source connection, stripped of middleware, is [[Peace is the Protocol]].
+[[Signal vs Slop]] is the practice of that orientation at the information layer. [[The Sovereignty Principle]] is its application to identity. The state produced by direct source connection, stripped of middleware, is [[Peace is the Protocol]].

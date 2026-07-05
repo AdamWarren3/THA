@@ -6,7 +6,7 @@ Three conditions for effective induction: the subject must trust the process, th
 
 This is the cognitive scale of [[NLP2]] made explicit.
 
-Personal practice note: The author developed a progressive relaxation induction followed by a countdown from 10, with embedded suggestion at each step. Results documented included habit change, enhanced physical performance, and memory retrieval. These are consistent with peer-reviewed literature on hypnotic phenomena.
+Personal practice note: The author developed a progressive relaxation induction followed by a countdown from 10, with embedded suggestion at each step. Results observed included habit change, enhanced physical performance, and memory retrieval. These are consistent with peer-reviewed literature on hypnotic phenomena.
 
 Clinical applications — surgery, pain management, childbirth — exist and are documented. They require licensed practitioners. This note documents the theory and personal framework only. Clinical use requires proper training and oversight.
 

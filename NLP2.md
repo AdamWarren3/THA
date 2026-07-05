@@ -15,3 +15,5 @@ At the cultural scale, Marshall McLuhan's foundational observation: "the medium 
 The synthesis: the same mechanism — language structuring the system it runs on — operates at all three scales simultaneously. A shift at one scale propagates to the others. This is the NLP² hypothesis. It is presented as a framework for investigation, not established theory.
 
 [[Memnetic]] is the transmission mechanism at the cultural scale. [[AI as Cognitive Scaffold]] is the computational scale made practically useful. [[The Human Algorithm]] is the deliberate application of this framework across all three scales simultaneously.
+
+The historical origin of this observation, dramatized: The Language Underneath — https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-20-language-underneath.html

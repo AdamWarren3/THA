@@ -8,6 +8,6 @@ Peace is not passive. It is a high-performance operating state — but one that 
 
 [[Signal vs Slop]] — noise is harm at the information layer. Peace is the signal state.
 
-[[Romans 12-21|Romans 12:21]] is one of the oldest documented formulations of this principle: overcome by replacing, not by destroying.
+The operational form of this principle — overcome by replacing, not by destroying — is developed fully in [[Constructive Displacement]].
 
 This is peace as technology. Not inevitable. Not guaranteed. Worth building toward deliberately.
