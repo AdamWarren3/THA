@@ -1,11 +1,10 @@
-"Do not be overcome by evil, but overcome evil with good." One verse. Operational principle, not passive morality.
+"Do not be overcome by evil, but overcome evil with good." — Romans 12:21. One verse, read here as an operational principle rather than passive morality: don't engage adversarial systems on their own terms. The response to harm is not revenge or collapse but output. The antidote to what was done to you is what you build.
 
-The argument it makes: don't engage adversarial systems on their own terms. Displacement is more effective than direct confrontation. The response to suffering is not revenge or collapse but output. The antidote to what was done to you is what you build. Overcome by replacing, not by destroying.
+Overcome by replacing, not by destroying. Displacement outperforms direct confrontation over time — build the better system rather than spend energy attacking the worse one. Versions of this recur across otherwise unrelated traditions: Taoist wu wei describes achievement through yielding rather than force; Theravada Buddhist teaching distinguishes dukkha as inherent friction from [[Pain is Necessary, Suffering is Optional|the additional suffering created by resistance]]. The convergence is worth noting without claiming it as proof of anything beyond itself — displacement recurs as a strategy because it tends to work, not because any one tradition discovered a singular truth.
 
-This maps interestingly onto [[Signal vs Slop]] — replace noise with signal, not through force but through superior output. Applied through [[Intentionality Architecture]] — the deliberate design of how constructive action outcompetes destructive action over time.
+This maps directly onto [[Signal vs Slop]] — replace noise with signal, not through force but through superior output. It is applied through [[Intentionality Architecture]] — the deliberate design of how constructive action outcompetes destructive action over time.
 
-Similar principles appear in other traditions. The Tao Te Ching describes wu wei — effortless action, achieving through yielding rather than force. Theravada Buddhism distinguishes between dukkha as inherent friction and [[Pain is Necessary, Suffering is Optional|the suffering added through resistance]] — suggesting the same logic of non-escalation.
-
+Whether these traditions point at the same underlying truth or simply arrived at similar practical wisdom through different routes is an open question, worth holding as interpretation rather than conclusion. What's observable is the pattern itself. That reading informs [[Peace is the Protocol]] and [[The Human Algorithm]] directly.
 Whether these traditions are pointing at the same underlying truth or simply arrived at similar practical wisdom through different routes is an open question. What's observable is the pattern: across very different cultural contexts, the principle of overcoming through constructive displacement recurs.
 
 One reading is that this convergence is signal. That reading informs [[Peace is the Protocol]] and [[The Human Algorithm]] — but it's worth holding as interpretation rather than conclusion.
