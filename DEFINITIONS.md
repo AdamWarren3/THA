@@ -1,6 +1,6 @@
 # Definitions
 
-The canonical source of meaning for THA's vocabulary. Each entry states what a term is, not why it matters — explanatory depth belongs in the notes.
+The canonical source of meaning for THA's vocabulary. Each entry states what a term is, not why it matters — explanatory depth belongs in the notes. Terms without a status field are treated as settled within the current version of THA.
 
 ---
 
