@@ -58,7 +58,7 @@ Operationalize one or more Concepts above; introduce no mechanism the Concepts t
 
 ## Relationships (untyped)
 
-Recorded as observed pairs. Not yet classified into types — six examples isn't enough to know if there are two stable relationship classes or ten.
+Recorded as observed pairs. Not yet classified into types — seven examples isn't enough to know if there are two stable relationship classes or ten.
 
 - Optimization Paradox ↔ AdamW³
 - Intermediary Problem ↔ Trustless Architecture
@@ -69,7 +69,7 @@ Recorded as observed pairs. Not yet classified into types — six examples isn't
 - Intentionality Architecture ↔ Constructive Displacement
 
 Two patterns noticed, held as observations rather than rules:
-- **Declared relationship → distinction, reliably.** Every pair where a note explicitly says "X is an application of Y" or "X is one resolution to Y" turned out distinct on inspection (5/5). Absence of a declared relationship predicts nothing either way (one merge, one non-merge observed) — a heuristic for where to look closely, not evidence in the review itself.
+- **Declared relationship → distinction, reliably.** Every pair where a note explicitly says "X is an application of Y" or "X is one resolution to Y" turned out distinct on inspection (6/6). Absence of a declared relationship predicts nothing either way (one merge, one non-merge observed) — a heuristic for where to look closely, not evidence in the review itself.
 - **Some relationships may reflect abstraction level (general principle → domain-specific application) rather than distinct mechanism.** Trustless Architecture currently sits at the convergence of two structurally different relationship shapes at once (domain-application of Sovereignty Principle; engineered-response to Intermediary Problem) — noted, not resolved.
 
 ---
