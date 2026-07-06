@@ -14,7 +14,7 @@ Found using a new interpretability tool, the **Jacobian lens (J-lens)**, which c
 
 Explicitly compared to **Global Workspace Theory** (Bernard Baars, 1988; later Stanislas Dehaene / Jean-Pierre Changeux) — the human cognitive science theory that only a small "spotlight" of total brain activity becomes consciously reportable at any moment, the rest running automatically backstage.
 
-**Models tested:** primarily Claude Sonnet 4.5, corroborated on Haiku 4.5 and Opus 4.5, some analysis on Opus 4.6. Not directly tested on Sonnet 5 as of this writing.
+**Models tested:** primarily Claude Sonnet 4.5, corroborated on Haiku 4.5 and Opus 4.5, some analysis on Opus 4.6.
 
 **Explicit caveat from Anthropic:** does not claim Claude is conscious or has subjective experience. Uses "consciously accessible" as a technical term borrowed from the theory's vocabulary only.
 
@@ -37,7 +37,7 @@ So the framing isn't "AI lacks self-knowledge, unlike humans." It's closer to: *
 
 ## Open questions / not yet resolved
 
-- Whether this generalizes to Sonnet 5 specifically is inference, not confirmed evidence — the paper's models are a generation behind.
+- Whether this generalizes across model generations, or is an artifact of the specific architectures tested, is inference, not confirmed evidence — that question stays open regardless of which model anyone happens to be talking to.
 - How much weight this should carry given the finding is hours old as of drafting this note — deliberately not rushing this into a settled framework claim.
 - Whether the eventual note lives in Context (current-events anchor, like Summer Dragon) or Core (permanent mechanism claim, like RLAiF) — leaning Context for now since the claim is tied to one specific, recent, still-developing paper rather than a timeless structural principle.
 
