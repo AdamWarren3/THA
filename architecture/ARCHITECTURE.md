@@ -62,3 +62,4 @@ These are different processes answering different questions. Treating Maintenanc
 - 2026-07-04 — THA Architecture v1.0 frozen. Further changes expected from implementation experience, not further design review.
 - 2026-07-04 — Deferred Decision term added; DD-001 (contributor architecture) logged in DEFERRED_DECISIONS.md.
 - 2026-07-05 — Definitions v1.0 implemented: DEFINITIONS.md created (28 entries). Six-category ownership corollary, Authorship/Maintenance timelines, and the Editorial Test principle added, capturing patterns Phase 2 validated during drafting. DD-002 (term removal) and DD-003 (semantic/conceptual relationship ownership) logged in DEFERRED_DECISIONS.md.
+- 2026-07-06 — CONCEPTS.md v0.1 implemented as the Concepts page and index.html's navigation sidebar regenerated from the `notes` array (closing IT-001/LG-001), alongside a Definitions page. DD-004 (verification timing for derived-view prose) logged in DEFERRED_DECISIONS.md.

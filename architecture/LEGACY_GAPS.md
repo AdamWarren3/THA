@@ -9,6 +9,6 @@ Historical record of architectural mismatches that predated the ADR they conflic
 ## LG-001 — Navigation sidebar duplicated Index metadata
 
 **Predates:** ADR-001
-**Status:** Open
+**Status:** Closed
 **Description:** The navigation sidebar in index.html is a second, independently-authored copy of note id / number / title / tag — the same information already held in the `notes` array. Written before ADR-001 existed. Not a violation — a gap to close.
 **Closed by:** IT-001
