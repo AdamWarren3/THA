@@ -21,10 +21,10 @@ jobs:
           echo '<?xml version="1.0" encoding="UTF-8"?>' > sitemap.xml
           echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> sitemap.xml
 
-          echo '<url><loc>https://atom-unhinged.github.io/The-Human-Algorithm/</loc></url>' >> sitemap.xml
+          echo '<url><loc>https://adamwarren3.github.io/THA/</loc></url>' >> sitemap.xml
 
           for file in Articles/*.html; do
-            echo "<url><loc>https://atom-unhinged.github.io/The-Human-Algorithm/$file</loc></url>" >> sitemap.xml
+            echo "<url><loc>https://adamwarren3.github.io/THA/$file</loc></url>" >> sitemap.xml
           done
 
           echo '</urlset>' >> sitemap.xml
