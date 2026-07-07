@@ -1,0 +1,1 @@
+This folder is intentionally non-canonical. It exists for experiments, observations, and ideas under consideration. Content may contradict itself. Nothing here should be treated as authoritative until it graduates through the repository's governance process.
