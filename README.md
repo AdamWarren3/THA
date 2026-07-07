@@ -64,7 +64,7 @@ Anyone who wants to think more clearly, interact with AI deliberately, filter si
 - **Context** — The Summer Dragon Problem, Trustless Architecture, AI Psychosis, Premature Certainty, The New Literacy, The Collective Layer, Hypnosis as Protocol
 - **Tools** — The Tools, The Optimization Protocol
 
-Browse the full framework: [atom-unhinged.github.io/The-Human-Algorithm](https://atom-unhinged.github.io/The-Human-Algorithm/)
+Browse the full framework: [THA Website](https://adamwarren3.github.io/THA/)
 
 ---
 
@@ -72,13 +72,13 @@ Browse the full framework: [atom-unhinged.github.io/The-Human-Algorithm](https:/
 
 Essays and fiction that branch from the core framework:
 
-- [The New Literacy: Conscious Engagement in the Age of Intelligent Systems](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-18-new-literacy.html)
-- [Necessity, Not Prophecy](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-19-necessity-not-prophecy.html)
-- [The Language Underneath: A Veiled Rapport](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-20-language-underneath.html)
-- [Jo](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-21-jo.html) — On sovereignty, loss, and the ones who choose anyway.
-- [The Broadcast](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-22-the-broadcast.html) — On memnetic transmission and the architecture of panic.
-- [BEN](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-23-ben.html) — 🌼
-- [No God But..](https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-24-no-god-but.html) — On dogma as memnetic infection, and the noise between us and the source.
+- [The New Literacy: Conscious Engagement in the Age of Intelligent Systems](https://adamwarren3.github.io/THA/Articles/2026-06-18-new-literacy.html)
+- [Necessity, Not Prophecy](https://adamwarren3.github.io/THA/Articles/2026-06-19-necessity-not-prophecy.html)
+- [The Language Underneath: A Veiled Rapport](https://adamwarren3.github.io/THA/Articles/2026-06-20-language-underneath.html)
+- [Jo](https://adamwarren3.github.io/THA/Articles/2026-06-21-jo.html) — On sovereignty, loss, and the ones who choose anyway.
+- [The Broadcast](https://adamwarren3.github.io/THA/Articles/2026-06-22-the-broadcast.html) — On memnetic transmission and the architecture of panic.
+- [BEN](https://adamwarren3.github.io/THA/Articles/2026-06-23-ben.html) — 🌼
+- [No God But..](https://adamwarren3.github.io/THA/Articles/2026-06-24-no-god-but.html) — On dogma as memnetic infection, and the noise between us and the source.
 
 ---
 
