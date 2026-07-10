@@ -10,4 +10,4 @@ At the biochemical layer, [[Microdosing as Protocol]] may reduce the noise floor
 
 The gap between will and result compresses when interference is systematically removed. That compression is what people throughout history have called manifestation. The mechanism was always there. The language was just imprecise.
 
-Magic and mysticism are technology whose mechanism hasn't been documented yet. The Human Algorithm documents the mechanism.
+Magic and mysticism may be technology whose mechanism hasn't been fully documented. The Human Algorithm proposes a candidate mechanism here — consistent with the biochemical layer above, this is a working hypothesis, not a settled account.
