@@ -16,4 +16,4 @@ The synthesis: the same mechanism — language structuring the system it runs on
 
 [[Memnetic]] is the transmission mechanism at the cultural scale. [[AI as Cognitive Scaffold]] is the computational scale made practically useful. [[The Human Algorithm]] is the deliberate application of this framework across all three scales simultaneously.
 
-The historical origin of this observation, dramatized: The Language Underneath — https://atom-unhinged.github.io/The-Human-Algorithm/Articles/2026-06-20-language-underneath.html
+The historical origin of this observation, dramatized: The Language Underneath — https://adamwarren3.github.io/THA/Articles/2026-06-20-language-underneath.html
