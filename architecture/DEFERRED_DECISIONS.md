@@ -44,9 +44,9 @@ Choices consciously postponed until a stated trigger condition is met. Not gaps 
 ## DD-006 — Formal stress-testing process
 
 **Trigger:** A section of the framework is stable enough that adversarial testing would surface genuine unresolved flaws, rather than just documenting an intentionally unfinished draft.
-**Status:** Deferred.
-**Description:** Individual pieces, Article 7 in particular, have already gone through repeated ad hoc audits — checking specific claims against sources, confirming counterarguments are present, checking flow and consistency. This is not the same thing as a formal, systematic process: deliberately seeking out the strongest available counterarguments to a claim rather than just the ones already anticipated, submitting notes to genuinely adversarial or expert readers who actually disagree with the framework's premises, and having a defined process for what happens when a real, previously-undiscovered flaw is found — revision, retraction, or flagged-as-contested. Undesigned until enough of the framework has settled that this would be testing real claims rather than an early draft.
-**Resolves to:** An ADR defining the stress-testing process — cadence, who or what performs it, and the decision tree for revise vs. flag vs. retract — once triggered.
+**Status:** In progress. A methodology (v0.1) was designed and its first execution (ST-001) has been completed, both in the private THA-Lab repository. Not yet formalized as an ADR in this repository.
+**Description:** ST-001 produced 14 scoped findings against the framework (4 Moderate severity, rest Low or Low–Moderate) and 7 gaps in the methodology itself. Findings not yet acted on here, pending review.
+**Resolves to:** An ADR defining the stress-testing process — cadence, who or what performs it, and the decision tree for revise vs. flag vs. retract — once the methodology and its first results have been reviewed and judged ready to formalize.
 
 ## DD-007 — Interactive site map / dependency graph
 
