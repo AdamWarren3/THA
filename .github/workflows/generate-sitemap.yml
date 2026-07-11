@@ -23,7 +23,7 @@ jobs:
 
           echo '<url><loc>https://adamwarren3.github.io/THA/</loc></url>' >> sitemap.xml
 
-          for file in Articles/*.html; do
+          file in articles/*.html; do
             echo "<url><loc>https://adamwarren3.github.io/THA/$file</loc></url>" >> sitemap.xml
           done
 
