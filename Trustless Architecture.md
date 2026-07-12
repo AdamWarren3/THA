@@ -4,7 +4,7 @@ Remove the intermediary. Remove the single point of failure. Remove the institut
 
 This is not financial theory — it is [[The Sovereignty Principle]] applied to value and truth simultaneously.
 
-The genesis was not silent — it spoke. A newspaper headline embedded in the first block: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.' A timestamp and a quiet indictment of the system being replaced. Those who read it understood the point.
+The genesis was not silent — it spoke. A newspaper headline embedded in the first block: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.' A timestamp and a quiet indictment of the system being replaced. [S22] Those who read it understood the point.
 
 Decentralization is not anarchy — it is a genuinely resilient architecture for systems that need to survive adversarial conditions without a single point of failure to compromise, though not the only viable approach, and not without its own coordination costs.
 

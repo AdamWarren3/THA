@@ -43,7 +43,7 @@ This is v0.1 (Snapshot) — a checkpoint earned by repeated attempts to falsify 
 | Deliberate, verified AI interaction | The New Literacy | The New Literacy |
 | AI-specific noise from undirected use | Signal vs Slop | Signal vs Slop |
 | Capability vs. safety tension | Summer Dragon Problem | Summer Dragon Problem |
-| Signal/noise, general principle | *(8 notes rely on it, incl. The Human Algorithm's own stated output — no single owner)* | **No canonical Definitions term** |
+| Signal/noise, general principle | Signal and Noise | Signal and Noise |
 
 ---
 
@@ -76,6 +76,5 @@ Two patterns noticed, held as observations rather than rules:
 
 ## Open items
 
-- **Signal/noise, general principle** has no canonical Definitions term today. This is a fact about the current repository, not a conclusion about the ontology — a future term may or may not be warranted.
 - **Relationship types** remain unclassified pending more examples.
-- Both open items are expected to be resolved or reframed by continued testing against the corpus, not by further methodology design.
+- This open item is expected to be resolved or reframed by continued testing against the corpus, not by further methodology design.

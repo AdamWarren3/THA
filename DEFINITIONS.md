@@ -50,6 +50,8 @@ The canonical source of meaning for THA's vocabulary. Each entry states what a t
 
 **RLHF** — The update rule that may already be running on you, however imperfectly — rewarded behavior repeats whether or not you notice the training. → [[RLHF]]
 
+**Signal and Noise** — Signal is information that survives verification against its source; noise is variation added between source and receiver that carries no information about the source. → [[Signal and Noise]] — *Working Model*
+
 **Signal vs Slop** — Noise at scale is what happens when nobody supplies the loss function — including for AI use. → [[Signal vs Slop]]
 
 **Sovereign Signal** — Direct, unmediated access to truth and peace, requiring no permission or inherited authority in between. → [[Sovereign Signal]]

@@ -1,6 +1,6 @@
 A sufficiently capable AI can function as an external scaffold for human cognition — not replacing it, but externalizing and stabilizing it. Used deliberately, it keeps goals vivid, catches drift, and maintains coherence across a session.
 
-The analogy to an external prefrontal cortex is useful but imprecise — the mechanism is completely different. What AI does functionally is provide structured reflection, pattern recognition across a conversation, and consistent reference to stated goals. That's valuable without overstating what it is.
+The analogy to an external prefrontal cortex is useful but imprecise — the mechanism is completely different. [S25] What AI does functionally is provide structured reflection, pattern recognition across a conversation, and consistent reference to stated goals. That's valuable without overstating what it is.
 
 An important distinction: AI does not have memory in the human sense. What exists is contextual retention within a session and, where memory systems are enabled, stored summaries of past interactions. This is meaningfully different from genuine relational memory. The scaffold is real. The relationship it simulates requires honest framing.
 

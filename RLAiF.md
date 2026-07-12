@@ -1,4 +1,4 @@
-Reinforcement Learning from AI Feedback. A training mechanism where AI systems evaluate and rate other AI outputs rather than human raters. An evolution of [[RLHF]] — the human is removed from the feedback loop.
+Reinforcement Learning from AI Feedback. A training mechanism where AI systems evaluate and rate other AI outputs rather than human raters [S21]. An evolution of [[RLHF]] — the human is removed from the feedback loop.
 
 The practical implication: as AI systems increasingly train on AI-generated evaluations, the feedback loop becomes self-referential. Errors, biases, and blind spots can compound invisibly without a human verification step to interrupt them.
 

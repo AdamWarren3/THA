@@ -1,6 +1,6 @@
 Sub-perceptual biochemical optimization. Not recreation — calibration. The protocol targets neuroplasticity, the brain's measurable capacity to update its own architecture.
 
-Emerging research suggests microdosing may interrupt [[Memnetic|Default Mode Network activity]] — the system associated with rumination, fixed identity narratives, and inherited loops. The mechanism is not fully understood. What the research indicates is a temporary reduction in rigid pattern activation, potentially lowering the noise floor and allowing signal that was previously obscured to become more legible.
+Emerging research on psychedelics documents reduced Default Mode Network activity — the system associated with rumination, fixed identity narratives, and inherited loops. A necessary correction to how this framework has stated it: that DMN finding comes from full (macro) doses, not microdoses, and controlled microdosing trials have largely failed to separate from placebo on the relevant measures [S12]. The mechanism is not fully understood, and its extension from macrodose to microdose is unproven. What the research indicates is a temporary reduction in rigid pattern activation, potentially lowering the noise floor and allowing signal that was previously obscured to become more legible.
 
 Microdosing is a pharmacologically active intervention — it works through measurable serotonin receptor activity, not simply by "revealing what was already there." More accurately: it temporarily alters the conditions under which the mind processes information.
 

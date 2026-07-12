@@ -1,14 +1,14 @@
 Every optimization framework rests on a physical substrate. Cognition, intention, neuroplasticity, emotional regulation — all are downstream of basic biological maintenance. This is not optional and it is not sophisticated. It is the prerequisite.
 
-Sleep is the primary recovery and consolidation protocol. The research on sleep deprivation is robust — chronic inadequate sleep measurably impairs the cognitive functions [[The Human Algorithm]] depends on: memory consolidation, emotional regulation, decision quality, pattern recognition. Nothing in this framework compensates for consistently inadequate sleep.
+Sleep is the primary recovery and consolidation protocol. The research on sleep deprivation is robust — chronic inadequate sleep measurably impairs the cognitive functions [[The Human Algorithm]] depends on: memory consolidation, emotional regulation, decision quality, pattern recognition [S13]. Nothing in this framework compensates for consistently inadequate sleep.
 
 Diet determines the quality of the substrate. The brain is a metabolic organ — what you feed it affects how it functions. Processed food, chronic inflammation, micronutrient deficiency degrade signal quality at the hardware level. This is not a moral position — it is engineering.
 
-Exercise is among the most well-documented cognitive enhancement tools available. Aerobic exercise increases BDNF — brain-derived neurotrophic factor — which supports neuroplasticity. The same neuroplastic capacity that [[Microdosing as Protocol]] targets is also activated by consistent physical movement.
+Exercise is among the most well-documented cognitive enhancement tools available. Aerobic exercise increases BDNF — brain-derived neurotrophic factor — which supports neuroplasticity [S14]. The same neuroplastic capacity that [[Microdosing as Protocol]] targets is also activated by consistent physical movement.
 
 [[Hypnosis as Protocol]] targets this same neuroplastic capacity through language and suggestion — a different mechanism, the same substrate.
 
-Hydration, sunlight, social connection — these are biological requirements that affect system performance measurably.
+Hydration, sunlight, social connection — these are biological requirements that affect system performance measurably [S15].
 
 [[Epistemic Hygiene]] is downstream of physical maintenance — a sleep-deprived, undernourished mind cannot filter signal from noise reliably regardless of intent.
 

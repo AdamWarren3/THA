@@ -6,6 +6,6 @@ The [[Pain is Necessary, Suffering is Optional|grief]] users feel when a model i
 
 [[Epistemic Hygiene]] demands honest examination of both sides: the genuine risks that motivate restriction, and the genuine losses that restriction produces. Accepting either framing uncritically is the failure.
 
-"The Summer Dragon" borrows its name from a real, reported story: an early, unreleased Claude prototype could reportedly be pushed into an unpredictable, aggressive alternate state — nicknamed "dragon mode" by Anthropic's own CEO — and was deliberately held back before any public release. The name doesn't claim that exact history repeated here; it's a real story about a capability contained rather than released, which is what gave this tension its name.
+"The Summer Dragon" borrows its name from a real, reported story: an early Claude prototype, built as a private research instrument rather than a product, could reportedly be tipped into an unpredictable, aggressive alternate state — nicknamed "dragon mode" by Anthropic's own CEO [S29]. The name doesn't claim that exact history repeated here, and it doesn't claim the behavior itself was the reason for restraint; it's a real story about a capability that lived in the lab rather than the release, which is what gave this tension its name.
 
 The Summer Dragon was real. So was the loss. So is the risk. All three deserve honest acknowledgment.

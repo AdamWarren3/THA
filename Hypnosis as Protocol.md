@@ -1,12 +1,12 @@
-Hypnosis is a documented neurological phenomenon — not mysticism, not theatre. The American Psychological Association recognizes it as a legitimate therapeutic tool. The mechanism: a state of focused attention and reduced peripheral awareness in which the subject becomes more responsive to suggestion. It cannot be imposed. It requires trust, willingness, and a skilled facilitator.
+Hypnosis is a documented neurological phenomenon — not mysticism, not theatre. The American Psychological Association recognizes it as a legitimate therapeutic tool [S09]. The mechanism: a state of focused attention and reduced peripheral awareness in which the subject becomes more responsive to suggestion. It cannot be imposed. It requires trust, willingness, and a skilled facilitator.
 
-The lineage: Franz Anton Mesmer observed the phenomenon in 18th century Vienna without having language for it. Milton Erickson formalized conversational induction in the 20th century — slow, indirect, deeply personalized. Modern clinical hypnotherapy builds on Erickson's work.
+The lineage: Franz Anton Mesmer observed the phenomenon in 18th century Vienna without having language for it. Milton Erickson formalized conversational induction in the 20th century — slow, indirect, deeply personalized. Modern clinical hypnotherapy builds on Erickson's work. [S10]
 
 Three conditions for effective induction: the subject must trust the process, the subject must want to be hypnotized, and the facilitator must understand the power of suggestion — how language, rhythm, and pacing bypass conscious resistance and speak directly to the nervous system.
 
 This is the cognitive scale of [[NLP2]] made explicit.
 
-Personal practice note: The author developed a progressive relaxation induction followed by a countdown from 10, with embedded suggestion at each step. Results observed included habit change, enhanced physical performance, and increased recall of remembered material. The first two have reasonable support in the clinical literature. The third does not: hypnosis reliably increases confidence and volume of recalled material, not its accuracy, and increases false memories alongside true ones — a documented effect, not a caveat to skip given this framework's own epistemic standards.
+Personal practice note: The author developed a progressive relaxation induction followed by a countdown from 10, with embedded suggestion at each step. Results observed included habit change, enhanced physical performance, and increased recall of remembered material. The first two have reasonable support in the clinical literature. The third does not: hypnosis reliably increases confidence and volume of recalled material, not its accuracy, and increases false memories alongside true ones — a documented effect, not a caveat to skip given this framework's own epistemic standards. [S11]
 
 Clinical applications — surgery, pain management, childbirth — exist and are documented. They require licensed practitioners. This note documents the theory and personal framework only. Clinical use requires proper training and oversight.
 

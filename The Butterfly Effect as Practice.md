@@ -1,4 +1,4 @@
-Chaos theory applied deliberately. Small, precise interventions at high-leverage points produce disproportionate downstream effects. This is not a new idea — systems thinking, complexity theory, and network science all document how sensitive complex systems are to initial conditions.
+Chaos theory applied deliberately. Small, precise interventions at high-leverage points produce disproportionate downstream effects. This is not a new idea — systems thinking, complexity theory, and network science all document how sensitive complex systems are to initial conditions [S24].
 
 This is the guiding principle of [[The Human Algorithm]]. A single well-placed idea, connection, or action, timed correctly and aimed precisely, can cascade through complex systems in ways no institution can replicate or predict.
 
