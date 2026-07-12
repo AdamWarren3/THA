@@ -32,6 +32,8 @@ A synthesis of cognitive science, systems thinking, AI literacy, contemplative p
 - **Epistemic Hygiene** — the discipline of knowing how you know what you know
 - **Intentional AI use** — AI as cognitive scaffold, not oracle
 - **Sovereignty as an architectural principle** — not political, structural
+- **Signal and Noise** — not a vibe, a Shannon-grounded test for what actually counts as information
+- **The Human Condition** — love, grief, trust, and forgiveness, held to the same evidentiary standard as everything else here
 
 ---
 

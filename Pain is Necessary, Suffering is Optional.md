@@ -1,4 +1,4 @@
-Pain is data. It signals damage, misalignment, friction — it is the system working correctly. Suffering is the loop that runs after the [[Signal vs Slop|signal]] has already been received. The distinction is the difference between information and rumination.
+Pain is data. It signals damage, misalignment, friction — it is the system working correctly. Suffering is the loop that runs after the [[Signal vs Slop|signal]] has already been received. The distinction is the difference between information and rumination. One case sits on the boundary and does not classify as suffering — [[The Human Condition|grief]], which is not a loop running past its signal but a system reorganizing around a permanent loss.
 
 [[The Optimization Paradox|Optimization]] requires pain as feedback — without it the system cannot update. Suffering is noise that drowns the signal and prevents the update from landing.
 

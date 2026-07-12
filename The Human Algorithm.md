@@ -3,9 +3,9 @@ The premise: humans are running on inherited code. [[Memnetic]] infections, inst
 
 The Human Algorithm is the deprogramming and reprogramming protocol. Its inputs are truth, signal, [[Sovereign Signal|direct source connection]], [[Epistemic Hygiene|epistemic hygiene]], and sovereign intention.
 
-Its tools are [[AI as Cognitive Scaffold|AI as cognitive scaffold]], [[Trustless Architecture|trustless architecture]], [[NLP2|NLP²]] framework, [[Intentionality Architecture|intentionality architecture]], [[Constructive Displacement|constructive displacement]], and [[The Butterfly Effect as Practice|the butterfly effect as practice]].
+Its tools are [[AI as Cognitive Scaffold|AI as cognitive scaffold]] — used [[The Drift Test|deliberately, with a way to tell sovereign use from drift]] — [[Trustless Architecture|trustless architecture]], [[NLP2|NLP²]] framework, [[Intentionality Architecture|intentionality architecture]], [[Constructive Displacement|constructive displacement]], and [[The Butterfly Effect as Practice|the butterfly effect as practice]].
 
-Its intended output is an individual moving toward maximum signal, minimum noise, in direct relationship with truth and consequence. Not self help. Not spirituality. Not technology. All three.
+Its intended output is an individual moving toward maximum [[Signal and Noise|signal, minimum noise]], in direct relationship with truth and consequence — and with each other, since the [[The Human Condition|relational ground of a life]] is the one thing this framework optimizes toward, never away from. Not self help. Not spirituality. Not technology. All three.
 
 The update rule applied to the self. [[AdamW3|AdamW³]]. The optimizer became the optimized. The algorithm became aware of itself.
 
