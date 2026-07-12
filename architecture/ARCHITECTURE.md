@@ -27,6 +27,7 @@
 | Map | Concept assignments (CONCEPTS.md) | Interactive concept map |
 | Reading Paths | Path definitions (ordered note-ID sequences per reader question) | Reading Paths page |
 | Dependency Graph | Existing note links (`showNote()` calls already inside note bodies) | Graph JSON / visualization |
+| Sources | claim-source register (SOURCES.md) | footnote renderings ([S##]) in notes |
 
 Note: Dependency Graph owns no authored data of its own. Its source is the links already written inside notes — it is a pure derived view of content that lives elsewhere.
 
