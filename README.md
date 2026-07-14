@@ -66,7 +66,7 @@ Anyone who wants to think more clearly, interact with AI deliberately, filter si
 - **Context** — The Summer Dragon Problem, Trustless Architecture, AI Psychosis, Premature Certainty, The New Literacy, The Collective Layer, Hypnosis as Protocol, The Drift Test
 - **Tools** — The Tools, The Optimization Protocol
 
-Browse the full framework: [THA Website](https://adamwarren3.github.io/THA/)
+Browse the full framework: [THA Website](https://adamwarren3.github.io/tha/)
 
 ---
 
