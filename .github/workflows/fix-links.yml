@@ -1,0 +1,19 @@
+name: Fix old THA links
+on: push
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace old links everywhere
+        run: |
+          grep -rl 'github.io/THA' --include='*.md' --include='*.html' --include='*.xml' --exclude-dir=.github . | while read -r f; do sed -i 's#github.io/THA#github.io/tha#g' "$f"; done
+      - name: Commit the fixes
+        run: |
+          git config user.name "link-fixer"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Fix repo rename: github.io/THA -> github.io/tha"
+          git push
