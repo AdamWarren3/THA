@@ -4,7 +4,7 @@ The mechanism has identifiable steps: clearly defined target state → identific
 
 [[AI as Cognitive Scaffold|AI functions as an external scaffold]] for this process — keeping the target state vivid, catching drift, maintaining coherence across time. This requires [[Intentionality Architecture]] — the deliberate design of how intention moves from thought to outcome.
 
-At the biochemical layer, [[Microdosing as Protocol]] may reduce the noise floor of the system — research suggests reduced Default Mode Network activity creates conditions where signal becomes more legible. This remains an active area of investigation, not settled science.
+At the biochemical layer, [[Microdosing as Protocol]] may reduce the noise floor of the system — research suggests reduced Default Mode Network activity creates conditions where signal becomes more legible. Macrodosing has stronger clinical support at this writing (controlled trials at Johns Hopkins and Imperial College for depression and end-of-life anxiety); microdosing's best controlled study (Szigeti et al., 2021) found much of the reported benefit consistent with expectation rather than pharmacology. Both remain open — microdosing genuinely unsettled rather than debunked, watched for future data, not closed.
 
 [[Hypnosis as Protocol]] operates at this same layer — language and suggestion as direct mechanisms for reducing interference between intention and outcome.
 
