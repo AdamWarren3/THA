@@ -1,0 +1,61 @@
+name: Apply pending fixes
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix Manifestation note (rebuild whole block)
+        run: |
+          python3 << 'EOF'
+          import re
+          with open('index.html', encoding='utf-8') as f:
+              t = f.read()
+          new_block = '''<!-- NOTE 14 -->
+<div class="note" id="note-manifestation">
+  <div class="note-meta"><span class="note-num">14</span><span class="note-tag">Practice</span></div>
+  <h1 class="note-title">Manifestation as Technology</h1>
+  <div class="note-body">
+    <p>Not mysticism, and not yet established mechanism either — a working hypothesis. The premise: most people have intentions but no mechanism, and the signal dissipates before it reaches the output layer. THA's candidate proposal is that manifestation is the reduction of interference between intention and outcome.</p>
+    <p>The proposed mechanism has identifiable steps: clearly defined target state → identification of friction points → systematic removal of interference → consistent reinforcement of pathways moving toward the outcome. <strong>This is the hypothesis, not a demonstrated engineering process.</strong> No source establishes that these variables are real, repeatable, or trackable in the way engineering implies; this note states that plainly rather than asserting it.</p>
+    <p><a onclick="showNote('ai-scaffold')" href="#">AI functions as an external scaffold</a> for this process — keeping the target state vivid, catching drift, maintaining coherence across time. This requires <a onclick="showNote('intentionality')" href="#">Intentionality Architecture</a> — the deliberate design of how intention moves from thought to outcome.</p>
+    <p>At the biochemical layer, <a onclick="showNote('microdosing')" href="#">Microdosing as Protocol</a> may reduce the noise floor of the system. The evidence here is asymmetric: reduced Default Mode Network activity is documented at macrodoses [S12], where it is associated with reduced rumination and loosened fixed self-patterns. That finding does not currently extend to microdoses — controlled microdosing trials have largely failed to separate from placebo [S12]. Microdosing's contribution to this layer remains open and unproven, not a settled part of the mechanism.</p>
+    <p><a onclick="showNote('hypnosis-protocol')" href="#">Hypnosis as Protocol</a> may operate at this same layer — language and suggestion as a documented mechanism for behavior and belief change [S09] — though its specific application to interference-reduction for manifestation, as opposed to hypnosis's established clinical uses, is this note's extension, not a cited finding.</p>
+    <p>The gap between will and result compresses when interference is systematically removed — if the hypothesis is correct. That compression, if real, is what people throughout history may have called manifestation. This note does not claim to have proven that; it proposes it as a candidate reading.</p>
+    <p>Magic and mysticism may be technology whose mechanism hasn't been fully documented. <a onclick="showNote('the-human-algorithm')" href="#">The Human Algorithm</a> proposes a candidate mechanism here — consistent with the biochemical layer above, this is a working hypothesis, not a settled account.</p>
+  </div>
+</div>
+'''
+          t2 = re.sub(r'<!-- NOTE 14 -->.*?(?=<!-- NOTE 15 -->)', new_block, t, flags=re.S)
+          with open('index.html', 'w', encoding='utf-8') as f:
+              f.write(t2)
+          EOF
+      - name: AdamW3 closing line
+        run: sed -i 's/for the full development of this concept/for the full framework/' index.html
+      - name: Optimization Protocol trim
+        run: |
+          python3 << 'EOF'
+          with open('index.html', encoding='utf-8') as f:
+              t = f.read()
+          old = '''    <p>Outcome data from active use is still being gathered. Results and validation findings are pending and will be added here as they become available.</p>
+    <p>The theoretical basis is documented in <a onclick="showNote('hypnosis-protocol')" href="#">Hypnosis as Protocol</a>.</p>
+    <p>See also: <a onclick="showNote('nlp2')" href="#">NLP²</a>, <a onclick="showNote('ai-scaffold')" href="#">AI as Cognitive Scaffold</a>, <a onclick="showNote('intentionality')" href="#">Intentionality Architecture</a></p>'''
+          new = '''    <p>See also: <a onclick="showNote('hypnosis-protocol')" href="#">Hypnosis as Protocol</a>, <a onclick="showNote('nlp2')" href="#">NLP²</a>, <a onclick="showNote('ai-scaffold')" href="#">AI as Cognitive Scaffold</a>, <a onclick="showNote('intentionality')" href="#">Intentionality Architecture</a></p>'''
+          t = t.replace(old, new)
+          with open('index.html', 'w', encoding='utf-8') as f:
+              f.write(t)
+          EOF
+      - name: Delete duplicate ARCHITECTURE.md
+        run: rm -f ARCHITECTURE.md
+      - name: Commit
+        run: |
+          git config user.name "fix-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Apply pending fixes: Manifestation, AdamW3, Optimization Protocol, duplicate ARCHITECTURE.md"
+          git pull --rebase origin main
+          git push
